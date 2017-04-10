@@ -1,0 +1,8 @@
+install:
+  # g++
+  - set PATH=%PATH%;C:\MinGW\bin
+
+build_script:
+  - qmake
+  - make
+  - travis_qmake_gcc_cpp14.exe
