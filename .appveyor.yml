@@ -9,4 +9,4 @@ build_script:
   - qmake
   - mingw32-make
   - dir
-  - appveyor_qmake_gcc_cpp14.exe
+  - release/appveyor_qmake_gcc_cpp14.exe
