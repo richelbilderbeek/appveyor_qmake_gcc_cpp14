@@ -2,7 +2,8 @@ install:
   # g++
   - set PATH=%PATH%;C:\MinGW\bin
   # qmake
-  - set PATH=%PATH%;C:\Qt\5.8\mingw53_32
+  - set QTDIR=C:\Qt\5.5\mingw492_32
+  - set PATH=%PATH%;%QTDIR%\bin
 
 build_script:
   - qmake
