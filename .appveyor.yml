@@ -1,6 +1,8 @@
 install:
   # g++
   - set PATH=%PATH%;C:\MinGW\bin
+  # qmake
+  - set PATH=%PATH%;C:\Qt\Tools\mingw530_32
 
 build_script:
   - qmake
