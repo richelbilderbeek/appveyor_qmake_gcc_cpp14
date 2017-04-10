@@ -1,5 +1,7 @@
 # appveyor_qmake_gcc_cpp14
 
+[![Build status](https://ci.appveyor.com/api/projects/status/8otskad85edx7m4m/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-qmake-gcc-cpp14/branch/master)
+
 This GitHub is part of:
 
  * [the AppVeyor C++ Tutorial](https://github.com/richelbilderbeek/appveyor_cpp_tutorial)
