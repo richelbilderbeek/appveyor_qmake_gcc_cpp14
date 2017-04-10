@@ -17,7 +17,7 @@ The goal of this project is to have a clean AppVeyor build, with specs:
 
 More complex builds:
 
- * [...]
+ * Add `Boost`: [![Build status](https://ci.appveyor.com/api/projects/status/smdyia4iojoju3ny/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-qmake-gcc-cpp14-boost/branch/master) [appveyor_qmake_gcc_cpp14_boost](https://www.github.com/richelbilderbeek/appveyor_qmake_gcc_cpp14_boost)
 
 Builds of similar complexity:
 
