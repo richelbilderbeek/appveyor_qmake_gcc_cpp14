@@ -8,7 +8,5 @@ install:
 build_script:
   - qmake
   - mingw32-make
-  - dir
   - cd release
-  - dir
   - appveyor_qmake_gcc_cpp14.exe
