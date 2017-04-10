@@ -8,4 +8,4 @@ install:
 build_script:
   - qmake
   - mingw32-make
-  - travis_qmake_gcc_cpp14.exe
+  - appveyor_qmake_gcc_cpp14.exe
