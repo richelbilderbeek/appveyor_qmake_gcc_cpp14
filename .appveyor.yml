@@ -7,5 +7,5 @@ install:
 
 build_script:
   - qmake
-  - make
+  - mingw32-make
   - travis_qmake_gcc_cpp14.exe
